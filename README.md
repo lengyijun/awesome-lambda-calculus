@@ -36,6 +36,7 @@ A curated list of awesome lambda calculus resources, libraries, tools, and more.
 - [Compiling to lambda-calculus: Turtles all the way down](http://matt.might.net/articles/compiling-up-to-lambda-calculus)
 - [Lambda Calculus](http://dev.stephendiehl.com/fun/lambda_calculus.html)
 - [The Lambda Calculus for Absolute Dummies](http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html)
+- [Ben Lynn's blog](https://crypto.stanford.edu/~blynn/lambda/)
 
 
 ## Repositories
