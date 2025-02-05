@@ -44,6 +44,7 @@ A curated list of awesome lambda calculus resources, libraries, tools, and more.
 - [lambda-calculus](https://github.com/benji6/lambda-calculus) - A lambda calculus interpreter written in JavaScript
 - [LambdaJS](https://github.com/loop-recur/lambdajs) - A Lambda Calculus Interpreter in JavaScript
 - [lambda-calculus-interpreter](https://github.com/mtomassoli/lambda-calculus-interpreter) - A simple lambda calculus interpreter in Python
+- [lambda_calculus](https://github.com/ljedrz/lambda_calculus) - A Lambda Calculus Interpreter in Rust
 
 
 ## Tools
