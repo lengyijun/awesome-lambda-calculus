@@ -59,6 +59,24 @@ A curated list of awesome lambda calculus resources, libraries, tools, and more.
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - A community-driven blog about programming languages, lambda calculus, and related topics
 - [/r/lambdacalculus](https://www.reddit.com/r/lambdacalculus/) - Reddit community for discussing lambda calculus
 
+## Wiki
+Please read following wiki pages
+- https://en.wikipedia.org/wiki/Lambda_calculus
+- https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus
+- https://en.wikipedia.org/wiki/Lambda_cube
+- https://en.wikipedia.org/wiki/System_F
+- https://en.wikipedia.org/wiki/Calculus_of_constructions
+- https://en.wikipedia.org/wiki/System_U
+- https://en.wikipedia.org/wiki/Fixed-point_combinator
+- https://en.wikipedia.org/wiki/Explicit_substitution
+- https://en.wikipedia.org/wiki/Director_string
+- https://en.wikipedia.org/wiki/Beta_normal_form
+- https://en.wikipedia.org/wiki/Church_encoding
+- https://en.wikipedia.org/wiki/Mogensen%E2%80%93Scott_encoding
+- https://en.wikipedia.org/wiki/Pure_type_system
+- https://en.wikipedia.org/wiki/Lambda-mu_calculus
+- https://en.wikipedia.org/wiki/Category:Lambda_calculus
+  
 ## Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new resource to the list.
