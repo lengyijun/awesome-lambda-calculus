@@ -45,6 +45,8 @@ A curated list of awesome lambda calculus resources, libraries, tools, and more.
 - [LambdaJS](https://github.com/loop-recur/lambdajs) - A Lambda Calculus Interpreter in JavaScript
 - [lambda-calculus-interpreter](https://github.com/mtomassoli/lambda-calculus-interpreter) - A simple lambda calculus interpreter in Python
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) - A Lambda Calculus Interpreter in Rust
+- [TuringMachineLambdaCalculusInterpreter](https://github.com/n-alex-goncalves/TuringMachineLambdaCalculusInterpreter) - multi-tape Turing machine <-> weak call-by-value lambda-calculus
+- [turing_machine_simulator_in_untyped_lambda_calculus](https://github.com/lengyijun/turing_machine_simulator_in_untyped_lambda_calculus) - Turing machine simulator in untyped lambda calculus
 
 
 ## Tools
