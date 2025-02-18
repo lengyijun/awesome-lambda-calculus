@@ -59,6 +59,11 @@ A curated list of awesome lambda calculus resources, libraries, tools, and more.
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - A community-driven blog about programming languages, lambda calculus, and related topics
 - [/r/lambdacalculus](https://www.reddit.com/r/lambdacalculus/) - Reddit community for discussing lambda calculus
 
+## Open questions
+- https://tlca.di.unito.it/opltlca/
+- https://www.cs.tau.ac.il/~nachum/rtaloop/
+- https://duch.mimuw.edu.pl/~urzy/tlca/Gentzen93/gentzen93.pdf
+
 ## Wiki
 Please read following wiki pages
 - https://en.wikipedia.org/wiki/Lambda_calculus
