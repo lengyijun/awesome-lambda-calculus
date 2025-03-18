@@ -54,6 +54,7 @@ A curated list of awesome lambda calculus resources, libraries, tools, and more.
 
 - [Lambda Calculus Interpreter](http://jacksongl.github.io/files/demo/lambda/index.htm) - An online lambda calculus interpreter
 - [Lambda Calculus Reducer](https://www.wolframcloud.com/objects/microsites/LambdaCalculusReducer) - A Wolfram Cloud tool for reducing lambda calculus expressions
+- [Lambda Calculus calculator](https://lambdacalc.io/)
 
 ## Communities
 
