@@ -84,6 +84,10 @@ Please read following wiki pages
 - https://en.wikipedia.org/wiki/Lambda-mu_calculus
 - https://en.wikipedia.org/wiki/Category:Lambda_calculus
   
+## Rust
+- https://github.com/owo-lang/minitt-rs
+    - Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust
+
 ## Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new resource to the list.
