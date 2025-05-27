@@ -83,6 +83,9 @@ Please read following wiki pages
 - https://en.wikipedia.org/wiki/Pure_type_system
 - https://en.wikipedia.org/wiki/Lambda-mu_calculus
 - https://en.wikipedia.org/wiki/Category:Lambda_calculus
+- https://en.wikipedia.org/wiki/Krivine_machine
+- https://en.wikipedia.org/wiki/CEK_Machine
+- https://en.wikipedia.org/wiki/SECD_machine
   
 ## Rust
 - https://github.com/owo-lang/minitt-rs
