@@ -86,6 +86,7 @@ Please read following wiki pages
 - https://en.wikipedia.org/wiki/Krivine_machine
 - https://en.wikipedia.org/wiki/CEK_Machine
 - https://en.wikipedia.org/wiki/SECD_machine
+- https://en.wikipedia.org/wiki/Scott%E2%80%93Curry_theorem
   
 ## Rust
 - https://github.com/owo-lang/minitt-rs
